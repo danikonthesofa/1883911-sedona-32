@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Даниил Николаев](https://up.htmlacademy.ru/htmlcss/32/user/1883911).
-* Наставник: [Егор Глебов](https://up.htmlacademy.ru/htmlcss/32/user/212499).
+* Наставник: [Вера Шингарёва](https://up.htmlacademy.ru/htmlcss/32/user/1632741).
 
 ---
 
