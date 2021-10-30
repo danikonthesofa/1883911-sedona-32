@@ -382,3 +382,11 @@ color: #fff;
   text-decoration: none;
   color: #000;
 }
+
+.catalog-service {
+  height: 408px;
+  background-color: #000;
+  background-image: url("/images/catalog/catalog-background\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
