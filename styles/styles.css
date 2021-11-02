@@ -40,7 +40,7 @@ body {
 .main-index {
   color: black;
   background-color: #fff;
-  background-image: url("/images/index/index-background.jpg");
+  background-image: url("../images/index/index-background.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
 }
@@ -101,7 +101,7 @@ body {
 
 .advantages-item-home {
   text-align: right;
-  background-color: rgba(131, 179, 211, 0,12);
+  background-color: rgba(131, 179, 211, 0.12);
 }
 
 .advantages-title-home {
@@ -148,7 +148,7 @@ body {
 
 .advantages-item-souvenirs {
   text-align: right;
-  background: rgba(131, 179, 211, 0,12);
+  background: rgba(131, 179, 211, 0.12);
 }
 
 .advantages-title-souvenirs {
@@ -198,7 +198,7 @@ body {
 
 .advantages-item-square {
   text-align: right;
-  background: rgba(131, 179, 211, 0,12);
+  background: rgba(131, 179, 211, 0.12);
 }
 
 .advantages-title-square {
@@ -221,7 +221,7 @@ body {
 
 .advantages-item-road {
   text-align: right;
-  background: rgbargba(131, 179, 211, 0,2);
+  background: rgbargba(131, 179, 211, 0.2);
 }
 
 .advantages-title-road {
@@ -244,7 +244,7 @@ body {
 
 .advantages-item-tourists {
   text-align: right;
-  background: rgba(131, 179, 211, 0,12);
+  background: rgba(131, 179, 211, 0.12);
 }
 
 .advantages-title-tourists {
@@ -320,7 +320,7 @@ body {
   letter-spacing: 0em;
   text-align: center;
   text-transform: uppercase;
-color: #fff;
+  color: #fff;
 }
 
 .newsletter-text {
@@ -348,6 +348,44 @@ color: #fff;
   border-radius: 0px 10px 10px 0px;
 }
 
+.button-info {
+  background: #756257;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.button-select {
+  background: #83B3D3;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.pagination-show-more {
+  background: #83B3D3;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
 .page-footer {
   color: #000;
   background-color: #fff;
@@ -368,4 +406,70 @@ color: #fff;
   background-image: url("/images/catalog/catalog-background\ 1.png");
   background-repeat: no-repeat;
   background-size: cover;
+  color: #fff;
+}
+
+.searched-hotels {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.filters-sorting {
+
+}
+
+.select-control {
+
+}
+
+.housing-card-title-link {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  text-decoration: none;
+  color: #000;
+}
+
+.housing-card-price {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+}
+
+.housing-card-type {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+}
+
+.newsletter-catalog-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000;
+}
+
+.newsletter-catalog-text {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000;
 }
